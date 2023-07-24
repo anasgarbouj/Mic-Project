@@ -23,6 +23,9 @@ const Navbar = () => {
             <a href={`#${nav.id}`}>{nav.title}</a>
           </li>
         ))}
+        <li className="ml-5">
+          <button className="font-poppins font-normal cursor-pointer text-[16px] bg-secondary text-white border-2 border-secondary py-1 px-3 rounded">Login</button>
+        </li>
       </ul>
 
       <div className="sm:hidden flex flex-1 justify-end items-center">
@@ -50,6 +53,9 @@ const Navbar = () => {
                 <a href={`#${nav.id}`}>{nav.title}</a>
               </li>
             ))}
+            <li className="mt-4">
+              <button className="font-poppins font-medium cursor-pointer text-[16px] bg-secondary text-white border-2 border-secondary py-1 px-3 rounded">Login</button>
+            </li>
           </ul>
         </div>
       </div>
