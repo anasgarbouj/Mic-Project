@@ -37,12 +37,12 @@
 .bg-blue-gradient {
   background: linear-gradient(
     157.81deg,
-    #def9fa -43.27%,
-    #bef3f5 -21.24%,
-    #9dedf0 12.19%,
-    #7de7eb 29.82%,
-    #5ce1e6 51.94%,
-    #33bbcf 90.29%
+    #faecc9 -43.27%,
+    #f1d795 -21.24%,
+    #fcdc8a 12.19%,
+    #f7ca5a 29.82%,
+    #f3b928 51.94%,
+    #FFB801 90.29%
   );
 }
 
@@ -126,6 +126,7 @@
 
 .blue__gradient {
   background: linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214d76 100%);
+
   filter: blur(123px);
 }
 
