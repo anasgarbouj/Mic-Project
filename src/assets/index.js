@@ -23,11 +23,8 @@ import twitter from "./twitter.svg";
 import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
-<<<<<<< HEAD
-import mic from "./mic.mp4"
-=======
+import mic from "./mic.mp4";
 import team from "./team.jpg";
->>>>>>> ecf6569e2f838aed9ee308f7e301a8c26deb0f32
 
 export {
   airbnb,
@@ -39,6 +36,7 @@ export {
   logo,
   quotes,
   robot,
+  mic,
   send,
   shield,
   star,
@@ -55,9 +53,5 @@ export {
   people01,
   people02,
   people03,
-<<<<<<< HEAD
-  mic,
-=======
   team,
->>>>>>> ecf6569e2f838aed9ee308f7e301a8c26deb0f32
 };
